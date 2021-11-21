@@ -49,6 +49,7 @@ export default {
         ".",
       ],
       operator: null,
+      
     };
   },
   methods:{
@@ -94,7 +95,5 @@ export default {
 .bg-vue-yellow{
   background: #ff9500;
 }
-body{
-  background: #273344;
-}
+ 
 </style>
